@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="141.493" height="128.981" viewBox="0 0 141.493 128.981">
+  <defs>
+    <filter id="Path_1" x="0" y="0" width="141.493" height="128.981" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#1dbab6" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-118.067 -14.023)">
+    <g transform="matrix(1, 0, 0, 1, 118.07, 14.02)" filter="url(#Path_1)">
+      <path id="Path_1-2" data-name="Path 1" d="M523.957-237.757l-35.749-39.755-35.367,39.755v71.226H576.334v-71.226Z" transform="translate(-443.84 283.51)" fill="#1dbab6"/>
+    </g>
+    <text id="Clean" transform="translate(136.567 91.719)" fill="#fff" font-size="32" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Clean</tspan></text>
+    <text id="Clean-2" data-name="Clean" transform="matrix(1, 0, 0, -1, 136.567, 95.719)" fill="#fff" font-size="32" font-family="Poppins-Light, Poppins" font-weight="300" opacity="0.38"><tspan x="0" y="0">Clean</tspan></text>
+  </g>
+</svg>
